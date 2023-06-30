@@ -1,4 +1,3 @@
-Command.txt
 TaskDDD/Application/Reservations/Common/ReservationResponse.cs
 TaskDDD/Application/Reservations/Create/CreateReservationCommand.cs
 TaskDDD/Application/Reservations/Create/CreateReservationCommandHandler.cs
@@ -35,7 +34,4 @@ TaskDDD/Domain/TouristPackages/TouristPackageId.cs
 TaskDDD/Domain/TouristPackages/TouristPackages.cs
 TaskDDD/Application/Destinations/Update/UpdateDestinationCommand.cs
 TaskDDD/Application/Destinations/Update/UpdateDestinationCommandHandler.cs
-TaskDDD/Application/Destinations/GetById/GetDestinationByIdQuery.cs
-TaskDDD/Application/Destinations/GetById/GetDestinationByIdQueryHandler.cs
-TaskDDD/Application/Destinations/GetAll/GetAllDestinationsQuery.cs
-TaskDDD/Application/Destinations/GetAll/GetAllDestinationsQueryHandler.cs
+
