@@ -1,4 +1,3 @@
-Command.txt
 TaskDDD/Application/Reservations/Common/ReservationResponse.cs
 TaskDDD/Application/Reservations/Create/CreateReservationCommand.cs
 TaskDDD/Application/Reservations/Create/CreateReservationCommandHandler.cs
