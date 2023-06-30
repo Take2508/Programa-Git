@@ -1,15 +1,3 @@
-TaskDDD/Application/Reservations/Common/ReservationResponse.cs
-TaskDDD/Application/Reservations/Create/CreateReservationCommand.cs
-TaskDDD/Application/Reservations/Create/CreateReservationCommandHandler.cs
-TaskDDD/Application/Reservations/Delete/DeleteReservationCommand.cs
-TaskDDD/Application/Reservations/Delete/DeleteReservationCommandHandler.cs
-TaskDDD/Application/Reservations/Delete/DeleteReservationCommandValidator.cs
-TaskDDD/Application/Reservations/GetAll/GetAllReservationsQuery.cs
-TaskDDD/Application/Reservations/GetAll/GetAllReservationsQueryHandler.cs
-TaskDDD/Application/Reservations/GetById/GetReservationByIdQueryHandler.cs
-TaskDDD/Application/Reservations/GetById/GetTouristPackageByIdQuery.cs
-TaskDDD/Application/Reservations/Update/UpdateReservationCommand.cs
-TaskDDD/Application/Reservations/Update/UpdateReservationCommandHandler.cs
 TaskDDD/Application/TouristPackages/Common/TouristPackageResponse.cs
 TaskDDD/Application/TouristPackages/Create/CreateTouristPackageCommand.cs
 TaskDDD/Application/TouristPackages/Create/CreateTouristPackageCommandHandler.cs
@@ -24,9 +12,6 @@ TaskDDD/Application/TouristPackages/Search/SearchTouristPackagesQuery.cs
 TaskDDD/Application/TouristPackages/Search/SearchTouristPackagesQueryHandler.cs
 TaskDDD/Application/TouristPackages/Update/UpdateTouristPackageCommand.cs
 TaskDDD/Application/TouristPackages/Update/UpdateTouristPackageCommandHandler.cs
-TaskDDD/Domain/Reservations/IReservationRepository.cs
-TaskDDD/Domain/Reservations/Reservation.cs
-TaskDDD/Domain/Reservations/ReservationId.cs
 TaskDDD/Domain/TouristPackages/ITouristPackageRepository.cs
 TaskDDD/Domain/TouristPackages/LineItem.cs
 TaskDDD/Domain/TouristPackages/LineItemId.cs
