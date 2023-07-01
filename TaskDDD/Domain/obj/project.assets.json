@@ -3271,24 +3271,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\krono\\.nuget\\packages\\": {}
+    "C:\\Users\\ALVARADO\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programa Git\\TaskDDD\\Domain\\Domain.csproj",
+      "projectUniqueName": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Programa Git\\TaskDDD\\Domain\\Domain.csproj",
-      "packagesPath": "C:\\Users\\krono\\.nuget\\packages\\",
-      "outputPath": "C:\\Programa Git\\TaskDDD\\Domain\\obj\\",
+      "projectPath": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\ALVARADO\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Domain\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\krono\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ALVARADO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3340,7 +3350,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

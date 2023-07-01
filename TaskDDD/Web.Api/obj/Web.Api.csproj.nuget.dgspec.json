@@ -1,33 +1,41 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programa Git\\TaskDDD\\Web.Api\\Web.Api.csproj": {}
+    "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Web.Api\\Web.Api.csproj": {}
   },
   "projects": {
-    "C:\\Programa Git\\TaskDDD\\Application\\Application.csproj": {
+    "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programa Git\\TaskDDD\\Application\\Application.csproj",
+        "projectUniqueName": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Programa Git\\TaskDDD\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\kev\\.nuget\\packages\\",
-        "outputPath": "C:\\Programa Git\\TaskDDD\\Application\\obj\\",
+        "projectPath": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\ALVARADO\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\kev\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ALVARADO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Programa Git\\TaskDDD\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Programa Git\\TaskDDD\\Domain\\Domain.csproj"
+              "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Domain\\Domain.csproj"
               }
             }
           }
@@ -79,26 +87,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Programa Git\\TaskDDD\\Domain\\Domain.csproj": {
+    "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programa Git\\TaskDDD\\Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Programa Git\\TaskDDD\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\kev\\.nuget\\packages\\",
-        "outputPath": "C:\\Programa Git\\TaskDDD\\Domain\\obj\\",
+        "projectPath": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\ALVARADO\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\kev\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ALVARADO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -150,37 +166,45 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Programa Git\\TaskDDD\\Infrastructure\\Infrastructure.csproj": {
+    "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programa Git\\TaskDDD\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Programa Git\\TaskDDD\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\kev\\.nuget\\packages\\",
-        "outputPath": "C:\\Programa Git\\TaskDDD\\Infrastructure\\obj\\",
+        "projectPath": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ALVARADO\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\kev\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ALVARADO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Programa Git\\TaskDDD\\Application\\Application.csproj": {
-                "projectPath": "C:\\Programa Git\\TaskDDD\\Application\\Application.csproj"
+              "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Application\\Application.csproj": {
+                "projectPath": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Application\\Application.csproj"
               },
-              "C:\\Programa Git\\TaskDDD\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Programa Git\\TaskDDD\\Domain\\Domain.csproj"
+              "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Domain\\Domain.csproj"
               }
             }
           }
@@ -216,38 +240,45 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Programa Git\\TaskDDD\\Web.Api\\Web.Api.csproj": {
+    "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Web.Api\\Web.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programa Git\\TaskDDD\\Web.Api\\Web.Api.csproj",
+        "projectUniqueName": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Web.Api\\Web.Api.csproj",
         "projectName": "Web.Api",
-        "projectPath": "C:\\Programa Git\\TaskDDD\\Web.Api\\Web.Api.csproj",
-        "packagesPath": "C:\\Users\\kev\\.nuget\\packages\\",
-        "outputPath": "C:\\Programa Git\\TaskDDD\\Web.Api\\obj\\",
+        "projectPath": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Web.Api\\Web.Api.csproj",
+        "packagesPath": "C:\\Users\\ALVARADO\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Web.Api\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\kev\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ALVARADO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files\\dotnet\\sdk\\7.0.305\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Programa Git\\TaskDDD\\Application\\Application.csproj": {
-                "projectPath": "C:\\Programa Git\\TaskDDD\\Application\\Application.csproj"
+              "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Application\\Application.csproj": {
+                "projectPath": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Application\\Application.csproj"
               },
-              "C:\\Programa Git\\TaskDDD\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Programa Git\\TaskDDD\\Infrastructure\\Infrastructure.csproj"
+              "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "c:\\Users\\ALVARADO\\Desktop\\Programa-Git\\TaskDDD\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -300,7 +331,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
